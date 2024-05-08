@@ -1,6 +1,7 @@
  MS/MS Viewer - Final Project
 
-This repository hosts the `Final_project_presentation.py` Python script, developed as part of a class project aimed at analyzing mass spectrometry (MS/MS) data to determine the match quality of peptides to spectra.
+This repository hosts the `Main.py` Python script, developed as part of a class project aimed at analyzing mass spectrometry (MS/MS) data to determine the match quality of peptides to spectra.
+
 
 ## Project Overview
 
